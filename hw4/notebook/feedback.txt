@@ -1,0 +1,19 @@
+Overall Feedback
+2.
+(a)
+i. correct
+ii. correct
+iii. -8 model should be built using all features, not the 3 selected; SyntaxError: f-string: unmatched '['
+iv. correct
+v. correct
+vi. correct
+vii. correct
+(b)
+i. model should be built using all features, not the 3 selected
+ii. correct
+(c)
+i. model should be built using all features, not the 3 selected; SyntaxError: f-string: unmatched '['
+ii. correct
+iii. correct
+3. correct
+4. correct
