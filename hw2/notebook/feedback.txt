@@ -1,0 +1,36 @@
+Dropbox Feedback
+Overall Feedback
+1.
+(a) correct
+(b) (i) correct
+(b) (ii) correct
+(b) (iii) correct
+(c) correct
+(d) correct
+(e) correct
+(f) correct
+(g) correct
+(h) -2 incomplete formula for fitting the second model, missing terms. See Piazza post @237.
+(i) correct
+(j) correct
+2. correct
+3. correct
+
+Score
+98 / 100 - 98 %
+
+---
+
+Piazza post @237.
+
+Question about HW2 Q1 h
+For Question1 h, the question said: "run a regression model involving all possible interaction terms and quadratic nonlinearities". Specifically, what are the variables to include? The quadratic version of all the original independent variables, and all the possible interaction terms (from combination of two predictors to combination of all four predictors)? Am I missing anything? Or do I include too many variables?
+
+the instructors' answer,
+Your model should include the following:
+
+Linear terms: X1, X2, X3, X4
+Quadratic terms: X1^2, X2^2, X3^2, X4^2
+Two-way interactions: X1_X2, X1_X3, X1_X4, X2_X3, X2_X4, X3_X4
+Three-way interactions: X1_X2_X3, X1_X2_X4, X1_X3_X4, X2_X3_X4
+Four-way interaction: X1_X2_X3*X4
